@@ -105,6 +105,10 @@ PRODUCT_PACKAGES += \
     camera.device@1.0-impl \
     Snap
 
+# Configstore
+PRODUCT_PACKAGES += \
+    android.hardware.configstore@1.0-service
+
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \
     libcnefeatureconfig

@@ -1,1 +1,3 @@
+add_lunch_combo lineage_gohan-eng
+add_lunch_combo lineage_gohan-user
 add_lunch_combo lineage_gohan-userdebug
